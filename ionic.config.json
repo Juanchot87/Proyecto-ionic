@@ -1,0 +1,7 @@
+{
+  "name": "primerIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
